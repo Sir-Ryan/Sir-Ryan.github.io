@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ryanhowarth.net
-Token: 151718493b42e727e4379c6d53cd4648afd62b5945e9c313b3de00cb5052bbc4
