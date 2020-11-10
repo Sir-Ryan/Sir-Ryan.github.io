@@ -13,6 +13,10 @@
 	<priority>0.5</priority>
 </url>
 <url>
+	<loc>https://lang.ryanhowarth.net/</loc>
+	<priority>0.5</priority>
+</url>
+<url>
 	<loc>https://ryanhowarth.net/vocabinc</loc>
 	<priority>0.5</priority>
 </url>
